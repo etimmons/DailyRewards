@@ -58,7 +58,7 @@ public class DailyRewards extends JavaPlugin {
     }
     
     public boolean isAnswerCorrect(String answer) {
-    	String expectedAnswer = "100";
+    	String expectedAnswer = "10";
     	
     	if (answer.equals(expectedAnswer)) {
     		return true;
