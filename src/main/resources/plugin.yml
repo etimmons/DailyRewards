@@ -1,0 +1,9 @@
+name: DailyRewards
+main: com.delsurf.DailyRewards.DailyRewards
+version: 0.0.1
+commands:
+   dr:
+      description: Daily Rewards
+      usage: /<command> [answer]
+      permission: <plugin name>.basic
+      permission-message: You don't have <permission>
